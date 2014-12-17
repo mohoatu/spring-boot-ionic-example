@@ -1,0 +1,13 @@
+example\CustomUserDetailsService$SimpleUserDetails.class
+example\NewsController$NewsEntry.class
+example\Application.class
+example\xauth\AuthenticationRequest.class
+example\NewsController.class
+example\CustomUserDetailsService.class
+example\config\SwaggerConfig.class
+example\xauth\XAuthTokenConfigurer.class
+example\xauth\XAuthTokenFilter.class
+example\xauth\UserXAuthTokenController$UserTransfer.class
+example\xauth\UserXAuthTokenController.class
+example\xauth\TokenUtils.class
+example\WebSecurityConfig.class
